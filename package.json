@@ -1,0 +1,14 @@
+{
+  "name": "mattchat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "autoprefixer": "^9.1.2",
+    "node-sass": "^4.9.3",
+    "parcel-bundler": "^1.9.7",
+    "pug": "^2.0.3",
+    "webrtc": "^1.14.1"
+  }
+}

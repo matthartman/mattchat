@@ -1,0 +1,8 @@
+@import "mixins";
+@import "reset";
+
+body {
+    color: white;
+    background-color: blue;
+    @include antialias();
+}
